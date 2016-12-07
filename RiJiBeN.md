@@ -15,3 +15,6 @@
 
 ## 2016年10月20日
 不知道为什么我的Github for windows 里面不能联动 atom 真是令人烦恼啊。
+
+## 2016年12月7日
+我终于弄明白怎么在 Github for Windows 里跳转到 Atom 啦~
